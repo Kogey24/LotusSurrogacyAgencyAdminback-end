@@ -1,0 +1,6 @@
+@Lotus_surrogacy_agency_Admin_panel_HostAddress = http://localhost:5231
+
+GET {{Lotus_surrogacy_agency_Admin_panel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

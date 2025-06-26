@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lotus_surrogacy_agency Admin_panel.props" />
+</Project>

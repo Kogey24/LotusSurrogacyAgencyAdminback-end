@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Container\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\ClientController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ClientController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\ParentModal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\ParentModal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\UserModal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\UserModal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\UserRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\UserRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IUserRoleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\IUserRoleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IClientService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\IClientService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\ClientService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Container\\ClientService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\DonorModal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\DonorModal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IRefreshHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\IRefreshHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\MotherModal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\MotherModal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\TblspermDonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TblspermDonor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\Helper\\AutoMapperHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\Helper\\AutoMapperHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\TblsurrogateMother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TblsurrogateMother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\TblintendedParent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TblintendedParent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\TokenResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\TokenResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\JWTSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\JWTSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\MenuPermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\MenuPermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\UserCred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\UserCred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\AppMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\AppMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\Tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\UserRoleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Container\\UserRoleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\BasicAuthenticationHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Container\\BasicAuthenticationHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\UserRoleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UserRoleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\RefreshHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Container\\RefreshHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\AuthorizeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AuthorizeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\APIResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modal\\APIResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\UserService.cs",
+              "RelativeDocumentMoniker": "Container\\UserService.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\UserService.cs",
+              "RelativeToolTip": "Container\\UserService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:53:13.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAkwIwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:17:50.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:37:25.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParentModal.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\ParentModal.cs",
+              "RelativeDocumentMoniker": "Modal\\ParentModal.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\ParentModal.cs",
+              "RelativeToolTip": "Modal\\ParentModal.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:57:46.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModal.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\UserModal.cs",
+              "RelativeDocumentMoniker": "Modal\\UserModal.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\UserModal.cs",
+              "RelativeToolTip": "Modal\\UserModal.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwDAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:05:15.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\UserRegister.cs",
+              "RelativeDocumentMoniker": "Modal\\UserRegister.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\UserRegister.cs",
+              "RelativeToolTip": "Modal\\UserRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:11:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:54:07.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRoleService.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IUserRoleService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserRoleService.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IUserRoleService.cs",
+              "RelativeToolTip": "Service\\IUserRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:54:32.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IClientService.cs",
+              "RelativeDocumentMoniker": "Service\\IClientService.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IClientService.cs",
+              "RelativeToolTip": "Service\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:16:04.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\ClientService.cs",
+              "RelativeDocumentMoniker": "Container\\ClientService.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\ClientService.cs",
+              "RelativeToolTip": "Container\\ClientService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwOEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:17:21.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonorModal.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\DonorModal.cs",
+              "RelativeDocumentMoniker": "Modal\\DonorModal.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\DonorModal.cs",
+              "RelativeToolTip": "Modal\\DonorModal.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwB4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:59:10.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRefreshHandler.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IRefreshHandler.cs",
+              "RelativeDocumentMoniker": "Service\\IRefreshHandler.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Service\\IRefreshHandler.cs",
+              "RelativeToolTip": "Service\\IRefreshHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:50:46.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MotherModal.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\MotherModal.cs",
+              "RelativeDocumentMoniker": "Modal\\MotherModal.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\MotherModal.cs",
+              "RelativeToolTip": "Modal\\MotherModal.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwC4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:58:16.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TblspermDonor.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\TblspermDonor.cs",
+              "RelativeDocumentMoniker": "Models\\TblspermDonor.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\TblspermDonor.cs",
+              "RelativeToolTip": "Models\\TblspermDonor.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:01:27.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMapperHandler.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\Helper\\AutoMapperHandler.cs",
+              "RelativeDocumentMoniker": "Modal\\Helper\\AutoMapperHandler.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\Helper\\AutoMapperHandler.cs",
+              "RelativeToolTip": "Modal\\Helper\\AutoMapperHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:47:31.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TblsurrogateMother.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\TblsurrogateMother.cs",
+              "RelativeDocumentMoniker": "Models\\TblsurrogateMother.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\TblsurrogateMother.cs",
+              "RelativeToolTip": "Models\\TblsurrogateMother.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwDAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:00:40.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TblintendedParent.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\TblintendedParent.cs",
+              "RelativeDocumentMoniker": "Models\\TblintendedParent.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\TblintendedParent.cs",
+              "RelativeToolTip": "Models\\TblintendedParent.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:59:30.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Modal\\TokenResponse.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\TokenResponse.cs",
+              "RelativeToolTip": "Modal\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:17:59.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "Modal\\JWTSettings.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\JWTSettings.cs",
+              "RelativeToolTip": "Modal\\JWTSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:50:05.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuPermission.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\MenuPermission.cs",
+              "RelativeDocumentMoniker": "Modal\\MenuPermission.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\MenuPermission.cs",
+              "RelativeToolTip": "Modal\\MenuPermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:04:39.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserCred.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\UserCred.cs",
+              "RelativeDocumentMoniker": "Modal\\UserCred.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\UserCred.cs",
+              "RelativeToolTip": "Modal\\UserCred.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:14:50.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppMenu.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\AppMenu.cs",
+              "RelativeDocumentMoniker": "Modal\\AppMenu.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\AppMenu.cs",
+              "RelativeToolTip": "Modal\\AppMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:04:02.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tbluser.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\Tbluser.cs",
+              "RelativeDocumentMoniker": "Models\\Tbluser.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Models\\Tbluser.cs",
+              "RelativeToolTip": "Models\\Tbluser.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:42:48.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRoleService.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\UserRoleService.cs",
+              "RelativeDocumentMoniker": "Container\\UserRoleService.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\UserRoleService.cs",
+              "RelativeToolTip": "Container\\UserRoleService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowGYAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:53:44.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "Container\\BasicAuthenticationHandler.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "Container\\BasicAuthenticationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:02:17.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRoleController.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\UserRoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRoleController.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\UserRoleController.cs",
+              "RelativeToolTip": "Controllers\\UserRoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:01:15.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:15:42.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RefreshHandler.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\RefreshHandler.cs",
+              "RelativeDocumentMoniker": "Container\\RefreshHandler.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Container\\RefreshHandler.cs",
+              "RelativeToolTip": "Container\\RefreshHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:51:53.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthorizeController.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\AuthorizeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorizeController.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Controllers\\AuthorizeController.cs",
+              "RelativeToolTip": "Controllers\\AuthorizeController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwH4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:48:26.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T09:36:41.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:17:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Modal\\APIResponse.cs",
+              "ToolTip": "G:\\ASP.NET\\Projects\\Lotus_surrogacy_agency Admin_panel\\Modal\\APIResponse.cs",
+              "RelativeToolTip": "Modal\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:03:25.188Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
